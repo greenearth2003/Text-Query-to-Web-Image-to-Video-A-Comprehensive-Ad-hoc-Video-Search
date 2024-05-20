@@ -14,13 +14,19 @@ The Ad-hoc search task goal is to model the end user search use-case, who is sea
 <p align="center">
   <img src="images/MinhHoaAVS.png" width="500" alt="Example for Ad-hoc Video Search">
 </p>
+<div style="text-align: center;">
+  Example for Ad-hoc Video Search
+</div>
 
 ### 2. Methodology
 This project experimentally implements a new approach to the Ad-hoc Video Search problem. 
 
 Different from the methods that achieve the best results today, my method does not use Diffusion Models, but exploits the search capabilities of today's major search engines such as Google, Bing, Yahoo.
 
+<p align="center">
+  <img src="images/Framework.png" width="900" alt="Framework of Method">
+</p>
+
 <div style="text-align: center;">
-  <img src="images/Framework.png" alt="Framework" style="width:90%;"/>
-  <p><em>Framework of Method</em></p>
+  Framework of Method
 </div>
