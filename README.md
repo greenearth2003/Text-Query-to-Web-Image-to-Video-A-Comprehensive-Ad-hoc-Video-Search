@@ -27,6 +27,6 @@ Different from the methods that achieve the best results today, my method does n
   <img src="images/Framework.png" width="900" alt="Framework of Method">
 </p>
 
-|                                      |
+|  ![Framework](images/Framework.png)  |
 |:------------------------------------:|
 |         Framework of Method          |
