@@ -10,7 +10,7 @@
 ## Project Info
 ### 1. Introduction
 The Ad-hoc search task goal is to model the end user search use-case, who is searching (using textual sentence queries) for segments of video containing persons, objects, activities, locations, etc. and combinations of the former.  
-![Example for AVS problem](images/MinhHoaAVS.png)
+<img src="images/MinhHoaAVS.png" width="200" />
 ### 2. Methodology
 This project experimentally implements a new approach to the Ad-hoc Video Search problem. 
 
