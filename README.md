@@ -27,6 +27,5 @@ Different from the methods that achieve the best results today, my method does n
   <img src="images/Framework.png" width="900" alt="Framework of Method">
 </p>
 
-<div style="text-align: center;">
-  Framework of Method
-</div>
+|:------------------------------------:|
+|         Framework of Method          |
