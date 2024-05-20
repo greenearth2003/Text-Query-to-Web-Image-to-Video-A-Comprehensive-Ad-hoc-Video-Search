@@ -11,17 +11,17 @@
 ### 1. Introduction
 The Ad-hoc search task goal is to model the end user search use-case, who is searching (using textual sentence queries) for segments of video containing persons, objects, activities, locations, etc. and combinations of the former.  
 
-<p align="center">
-  <img src="images/MinhHoaAVS.png" width="500" />
-  Example for AVS problem
-</p>
+<figure align="center">
+  <img src="images/MinhHoaAVS.png" width="500" alt="MinhHoaAVS">
+  <figcaption> Example for Ad-hoc Video Search </figcaption>
+</figure>
 
 ### 2. Methodology
 This project experimentally implements a new approach to the Ad-hoc Video Search problem. 
 
 Different from the methods that achieve the best results today, my method does not use Diffusion Models, but exploits the search capabilities of today's major search engines such as Google, Bing, Yahoo.
 
-<p align="center">
-    <img src="images/Framework.png" width="900" />
-    Framework of Method
-</p>
+<figure align="center">
+    <img src="images/MinhHoaAVS.png" width="900" alt="Framework">
+    <figcaption> Framework of Method </figcaption>
+</figure>
