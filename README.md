@@ -3,7 +3,7 @@
 |     Full name     | Student ID |  Role  |
 | :---------------: | :--------: |  :---: |
 | Nguyen Nhat Minh  | 21521135   |  Owner |
-\\
+
 **This is a personal project**
 ## Project Info
 ### 1. Introduction
