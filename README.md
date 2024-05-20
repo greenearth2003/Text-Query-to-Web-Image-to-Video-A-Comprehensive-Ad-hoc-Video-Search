@@ -11,7 +11,7 @@
 ### 1. Introduction
 The Ad-hoc search task goal is to model the end user search use-case, who is searching (using textual sentence queries) for segments of video containing persons, objects, activities, locations, etc. and combinations of the former.  
 
-| <p align="center"> <img src="images/MinhHoaAVS.png" width="500" alt="Example for Ad-hoc Video Search"> </p> |
+|                           <p> <img src="images/MinhHoaAVS.png" width="500"> </p>                            |
 | :---------------------------------------------------------------------------------------------------------: |
 |                                     Example for Ad-hoc Video Search                                         |
 
