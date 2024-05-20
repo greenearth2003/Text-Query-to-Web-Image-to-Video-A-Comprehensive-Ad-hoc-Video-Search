@@ -1,6 +1,6 @@
 # Text Query to Web Image to Video: A Comprehensive Ad-hoc Video Search
 ## Member Info 
-**Instructor:** PhD. Mai Tien Dung - University of Information Technology HCMVNU 
+**Instructor:** PhD. Mai Tien Dung - University of Information Technology - Ho Chi Minh VNU 
 
 **Members**
 
