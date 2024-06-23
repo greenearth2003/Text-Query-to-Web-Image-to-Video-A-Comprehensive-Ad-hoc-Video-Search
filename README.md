@@ -21,6 +21,6 @@ This project experimentally implements a new approach to the Ad-hoc Video Search
 
 Different from the methods that achieve the best results today, my method does not use Diffusion Models, but exploits the search capabilities of today's major search engines such as Google, Bing, Yahoo.
 
-|  ![Framework](images/Framework.png)  |
+|  ![Framework](images/framework.png)  |
 |:------------------------------------:|
 |         Framework of Method          |
