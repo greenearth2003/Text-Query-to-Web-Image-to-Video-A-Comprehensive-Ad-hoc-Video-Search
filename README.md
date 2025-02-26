@@ -6,7 +6,7 @@
 
 |     Full name     | Student ID |  Role  |
 | :---------------: | :--------: |  :---: |
-| Nguyen Nhat Minh  | 21521135   |  Owner |
+| Nguyen Nhat Minh  | 21521135   |  First author |
 ## Project Info
 ### 1. Introduction
 The Ad-hoc search task goal is to model the end user search use-case, who is searching (using textual sentence queries) for segments of video containing persons, objects, activities, locations, etc. and combinations of the former.  
